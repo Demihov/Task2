@@ -1,0 +1,11 @@
+C:\Epam\Projects\Task2\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfoInputs.cache
+C:\Epam\Projects\Task2\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfo.cs
+C:\Epam\Projects\Task2\Part1\bin\Debug\netcoreapp3.1\Part1.exe
+C:\Epam\Projects\Task2\Part1\bin\Debug\netcoreapp3.1\Part1.deps.json
+C:\Epam\Projects\Task2\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.json
+C:\Epam\Projects\Task2\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.dev.json
+C:\Epam\Projects\Task2\Part1\bin\Debug\netcoreapp3.1\Part1.dll
+C:\Epam\Projects\Task2\Part1\bin\Debug\netcoreapp3.1\Part1.pdb
+C:\Epam\Projects\Task2\Part1\obj\Debug\netcoreapp3.1\Part1.dll
+C:\Epam\Projects\Task2\Part1\obj\Debug\netcoreapp3.1\Part1.pdb
+C:\Epam\Projects\Task2\Part1\obj\Debug\netcoreapp3.1\Part1.csprojAssemblyReference.cache
